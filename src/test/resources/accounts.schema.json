@@ -14,7 +14,7 @@
     ],
     "properties": {
       "id": {
-        "type": "null"
+        "type": "integer"
       },
       "name": {
         "type": "string",
@@ -25,7 +25,7 @@
         "pattern": "^•• \\d{4}$"
       },
       "balance": {
-        "type": "null"
+        "type": "integer"
       },
       "currency": {
         "type": "string",
